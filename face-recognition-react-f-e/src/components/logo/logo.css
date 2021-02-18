@@ -1,0 +1,8 @@
+.logo-card{
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(97, 96, 96);
+    box-shadow: 2px 2px 2px 2px rgb(104, 103, 103);
+    margin-left: 50px;
+    margin-top: 50px;
+}

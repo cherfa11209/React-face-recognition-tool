@@ -1,0 +1,20 @@
+.imagefinder{
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    height: 8%;
+    width: 25%;
+    background-color: rgb(116, 105, 105);
+    border: 2px double black;
+}
+
+.searchbar{
+    margin-top: 7%;
+}
+
+.instructions{
+    position: absolute;
+    font-size: larger;
+    top: 40%;
+    left: 30%;
+}

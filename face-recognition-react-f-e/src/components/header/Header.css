@@ -1,0 +1,19 @@
+.header{
+    position: absolute;
+    top: 0;
+    height: 4vh;
+    width: 100%;
+    background-color: gray;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.link{
+    margin-right: 15px;
+    font-size: larger;
+}
+
+a{
+    cursor: pointer;
+}
